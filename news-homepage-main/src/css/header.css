@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  align-items: center;
+  padding: 10px 15px;
+}
+
+ul {
+  position: relative;
+  display: flex;
+  gap: 20px;
+}
