@@ -1,0 +1,42 @@
+section {
+  display: flex;
+  gap: 30px;
+  margin-bottom: 50px;
+}
+
+section img {
+  max-width: 100px;
+}
+
+.pcs {
+  display: flex;
+  gap: 10px;
+}
+
+.top {
+  display: flex;
+  gap: 10px;
+}
+
+.gaming {
+  display: flex;
+  gap: 10px;
+}
+
+section h1 {
+  margin-bottom: 8px;
+  color: #949494;
+}
+
+section h2 {
+  margin-bottom: 8px;
+}
+
+section p {
+  font-size: 12px;
+  color: #949494;
+}
+
+section h2 {
+  font-size: 14px;
+}

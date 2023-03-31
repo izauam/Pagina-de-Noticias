@@ -1,0 +1,12 @@
+body {
+  margin-left: 225px;
+  margin-right: 225px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.corpo-geral {
+  display: flex;
+  gap: 30px;
+  margin-bottom: 60px;
+}

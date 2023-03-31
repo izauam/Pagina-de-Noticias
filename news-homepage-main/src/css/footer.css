@@ -1,8 +1,5 @@
 footer {
   background-color: #b9e1ed;
   padding: 16px 0;
-}
-
-footer .attribution {
-  display: flex;
+  text-align: center;
 }

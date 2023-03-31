@@ -1,11 +1,19 @@
+header {
+  margin-bottom: 25px;
+}
+
 .container {
   display: flex;
   align-items: center;
-  padding: 10px 15px;
+  justify-content: space-between;
 }
 
 ul {
   position: relative;
   display: flex;
-  gap: 20px;
+  gap: 18px;
+}
+
+.menu {
+  position: relative;
 }

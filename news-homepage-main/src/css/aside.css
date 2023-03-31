@@ -1,0 +1,27 @@
+aside {
+  background-color: black;
+  padding: 15px;
+}
+
+aside .h1 {
+  color: rgb(239, 37, 37);
+  font-size: 40px;
+  padding-bottom: 20px;
+}
+
+aside h2 {
+  color: aliceblue;
+  font-size: 20px;
+  padding-bottom: 8px;
+  padding-top: 15px;
+}
+
+aside p {
+  color: aliceblue;
+  font-size: 14px;
+}
+
+aside .linha {
+  border-bottom: 1px solid honeydew;
+  padding-bottom: 15px;
+}
