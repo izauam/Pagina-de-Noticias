@@ -16,4 +16,15 @@ ul {
 
 .menu {
   position: relative;
+  font-family: 'Inter', sans-serif;
+  font-size: 13px;
+}
+
+ul li a:hover {
+  color: #ea9449;
+  transition: 0.4s;
+}
+
+header a {
+  color: #111111;
 }

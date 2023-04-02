@@ -2,4 +2,15 @@ footer {
   background-color: #b9e1ed;
   padding: 16px 0;
   text-align: center;
+  font-family: 'Inter', sans-serif;
+}
+
+footer p a:hover {
+  color: #ea9449;
+  transition: 0.4s;
+  box-sizing: none;
+}
+
+footer a {
+  color: #2b2828;
 }

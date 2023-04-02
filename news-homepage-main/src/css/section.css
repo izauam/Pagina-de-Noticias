@@ -2,6 +2,7 @@ section {
   display: flex;
   gap: 30px;
   margin-bottom: 50px;
+  font-family: 'Inter', sans-serif;
 }
 
 section img {
@@ -32,11 +33,21 @@ section h2 {
   margin-bottom: 8px;
 }
 
+section h2 {
+  font-size: 14px;
+  font-weight: 800;
+}
+
+section h2 a:hover {
+  color: #ea9449;
+  transition: 0.4s;
+}
+
+section a {
+  color: #111111;
+}
+
 section p {
   font-size: 12px;
   color: #949494;
-}
-
-section h2 {
-  font-size: 14px;
 }
